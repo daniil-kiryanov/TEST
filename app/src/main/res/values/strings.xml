@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">AndroidProject</string>
+    <string name="app_name">Android_Project</string>
+    <string name="text">Привет ТГУ!</string>
+    <string name="hello">HELLO</string>
 </resources>
